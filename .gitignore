@@ -51,3 +51,6 @@ bullmq/
 # Misc
 .vscode/
 .idea/
+
+# clerk configuration (can include secrets)
+/.clerk/
