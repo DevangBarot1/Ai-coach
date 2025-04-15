@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 https://github.com/user-attachments/assets/c7dd3c52-e3fe-40e3-87bd-25ccae93dd49
 
 ### Make sure to create a `.env` file with following variables -
@@ -15,3 +16,6 @@ NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/onboarding
 
 GEMINI_API_KEY=
 ```
+=======
+# Ai-coach
+>>>>>>> 648d006415f845d86ee5e037bdaf6310fd03d9b9
